@@ -1,0 +1,37 @@
+{
+  "name": "gulp-plates",
+  "version": "0.0.1",
+  "description": "Uses flatiron plates to do DSL-free html templating",
+  "main": "index.js",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/007design/gulp-plates",
+  "license": "MIT",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/007design/gulp-plates"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "007design",
+    "url": "https://github.com/007design"
+  },
+  "dependencies": {
+    "plates": "~0.4.8",
+    "through2": "~0.4.1"
+  },
+  "devDependencies": {
+    "plates": "~0.4.8",
+    "through2": "~0.4.1"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "bugs": {
+    "url": "https://github.com/007design/gulp-plates/issues"
+  }
+}
