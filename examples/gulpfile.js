@@ -16,5 +16,5 @@ gulp.task('build', function(){
 
   gulp.src('src/*.html')
   	.pipe(plates( context, plates_config ))
-  	.pipe(gulp.dest('build'))
+  	.pipe(gulp.dest('build'));
 });
