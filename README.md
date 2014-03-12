@@ -22,6 +22,8 @@ gulp.task('plates', function(){
     ] 
   ];
 
+  // For a simple binding, omit the plates_config argument.
+  // Context properties will be mapped to tag ids
   gulp.src('index.html')
     .pipe(plates( context, plates_config ))
     .pipe(gulp.dest('build'));
