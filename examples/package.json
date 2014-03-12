@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-plates": "~0.0.1"
+  }
+}
