@@ -17,11 +17,11 @@
   ],
   "author": "007design (https://github.com/007design)",
   "dependencies": {
-    "plates": "~0.4.8",
+    "plates": "~0.4.9",
     "through2": "~0.4.1"
   },
   "devDependencies": {
-    "plates": "~0.4.8",
+    "plates": "~0.4.9",
     "through2": "~0.4.1"
   },
   "engines": {
