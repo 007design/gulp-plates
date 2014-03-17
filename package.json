@@ -1,6 +1,6 @@
 {
   "name": "gulp-plates",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Uses flatiron plates to do DSL-free html templating",
   "main": "index.js",
   "homepage": "https://github.com/007design/gulp-plates",
@@ -17,11 +17,11 @@
   ],
   "author": "007design (https://github.com/007design)",
   "dependencies": {
-    "plates": "~0.4.9",
+    "plates": "~0.4.10",
     "through2": "~0.4.1"
   },
   "devDependencies": {
-    "plates": "~0.4.9",
+    "plates": "~0.4.10",
     "through2": "~0.4.1"
   },
   "engines": {
