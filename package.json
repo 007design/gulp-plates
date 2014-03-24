@@ -1,6 +1,6 @@
 {
   "name": "gulp-plates",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Uses flatiron plates to do DSL-free html templating",
   "main": "index.js",
   "homepage": "https://github.com/007design/gulp-plates",
