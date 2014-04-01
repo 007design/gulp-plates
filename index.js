@@ -1,6 +1,6 @@
 'use strict';
 var through = require('through2'),
-    plates = require('plates');
+    plates = require('dbond-plates');
 
 module.exports = function(context, args) {
 
